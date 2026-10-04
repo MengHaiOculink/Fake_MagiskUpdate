@@ -1,0 +1,12 @@
+{
+  "magisk": {
+    "version": "v27.2-kitsune-2",
+    "versionCode": "27002",
+    "link": "https://github.com/MengHaiOculink/Fake_MagiskUpdate/releases/download/1/Kitsune.Magisk.release.v27.2-kitsune-2.apk",
+    "note": "https://github.com/MengHaiOculink/Fake_MagiskUpdate/releases/download/1/note.md"
+  },
+  "stub": {
+    "versionCode": "38",
+    "link": "https://github.com/MengHaiOculink/Fake_MagiskUpdate/releases/download/1/stub-canary.apk"
+  }
+}
